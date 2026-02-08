@@ -9,16 +9,6 @@
 ## 🚀 Automação Industrial
 
 <p align="left">
-## Automação Industrial
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"/>
-<img src="https://img.icons8.com/ios-filled/50/ffffff/automation.png" width="28"/>
-<img src="https://img.icons8.com/ios-filled/50/ffffff/processor.png" width="28"/>
-<img src="https://img.icons8.com/ios-filled/50/ffffff/electronics.png" width="28"/>
 
 </p>
 
