@@ -1,23 +1,26 @@
 # README.md
 ## Hi there, would you like sing my petition  
-
-
-💻 Low-Level & High-Level Developer| 🚀 Apaixonado por Open Source | 
+Low-Level & High-Level Developer | Apaixonado por Open Source
 
 ---
 
-## 🚀 Automação Industrial
+## Automação Industrial
 
-<p align="left">
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" />
+</div>
 
-</p>
+### Future
 
-Future:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fortran/fortran-original.svg" alt="Fortran" width="24" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Terminal" width="24" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="24" height="30"/>
-</p>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fortran/fortran-original.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" />
+</div>
 
 
 ---
