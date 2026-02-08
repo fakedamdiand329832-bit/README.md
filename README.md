@@ -9,16 +9,6 @@
 ## 🚀 Automação Industrial
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/5421823/62779159-4cf76880-baaa-11e9-8318-e20a1aaa913a.png" alt="Descrição da imagem" width="34"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="26" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="26" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="26" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" alt="Elixir" width="26" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="26" height="30"/>   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="24" height="30"/>
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/automation.png" width="28"/>
-<img src="https://img.icons8.com/ios-filled/50/ffffff/processor.png" width="28"/>
-<img src="https://img.icons8.com/ios-filled/50/ffffff/electronics.png" width="28"/>
 ## Automação Industrial
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30"/>
